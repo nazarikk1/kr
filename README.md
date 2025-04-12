@@ -3,7 +3,9 @@
 〖УСІ МАШИНИ〗:
 - brand: Honda
   model: Civic
+  
   year: 2012
+  
   mileage: 110000 км
 - brand: Mercedes-Benz
   model: C-Class
