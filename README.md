@@ -1,5 +1,5 @@
 # kr
-##t1 res
+## t1 res
 〖УСІ МАШИНИ〗:
 - brand: Honda
   model: Civic
@@ -18,7 +18,7 @@
   mileage: 110000 км
 
 
-##t2 res
+## t2 res
 КАТАЛОГ БІБЛІОТЕКИ:
 
 ⤷Book: Harry Potter and the Sorcerer's Stone
