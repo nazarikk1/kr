@@ -42,6 +42,7 @@
   Year: 1997
 
   Pages: 309
+
   
 
 ⤷Book: The Lord of the Rings: The Fellowship of the Ring
@@ -55,6 +56,7 @@
   Pages: 423
   
 
+
 ⤷Magazine: VOGUE
 
  𝗣𝗥𝗢𝗗𝗨𝗖𝗧 𝗖𝗛𝗔𝗥𝗔𝗖𝗧𝗘𝗥𝗜𝗦𝗧𝗜𝗖𝗦
@@ -64,6 +66,7 @@
   Month: January
   
   Year: 2025
+
   
 
 ⤷Magazine: VOGUE
@@ -81,6 +84,7 @@ ____________________
 СТАРИЙ ДРУК:
 
 
+
 ⤷Book: Harry Potter and the Sorcerer's Stone
 
  𝗣𝗥𝗢𝗗𝗨𝗖𝗧 𝗖𝗛𝗔𝗥𝗔𝗖𝗧𝗘𝗥𝗜𝗦𝗧𝗜𝗖𝗦
@@ -91,6 +95,7 @@ ____________________
   
   Pages: 309
   
+
 
 ⤷Book: The Lord of the Rings: The Fellowship of the Ring
 
@@ -107,6 +112,7 @@ ____________________
 
 𝗩𝗢𝗚𝗨𝗘
 
+
 ⤷Magazine: VOGUE
 
  𝗣𝗥𝗢𝗗𝗨𝗖𝗧 𝗖𝗛𝗔𝗥𝗔𝗖𝗧𝗘𝗥𝗜𝗦𝗧𝗜𝗖𝗦
@@ -116,6 +122,7 @@ ____________________
   Month: January
 
   Year: 2025
+
 
 ⤷Magazine: VOGUE
 
